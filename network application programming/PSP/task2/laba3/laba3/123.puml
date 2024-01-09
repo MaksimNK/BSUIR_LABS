@@ -1,0 +1,10 @@
+@startuml
+class CLientUDP {
+- ServerSocket serverSocket
+
++ {static} void main(String[])
+}
+
+
+
+@enduml

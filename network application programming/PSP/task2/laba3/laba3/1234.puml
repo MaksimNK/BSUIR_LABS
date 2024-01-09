@@ -1,0 +1,18 @@
+@startuml
+class ClientTCP {
+
++ {static} void main(String[])
+
+}
+class ServerTCP{
+- ServerSocket serverSocket
++ void run()
++ {static} void main(String[])
+- {static} String translate(String,String,String)
+}
+
+
+
+
+ServerTCP <|-- ClientTCP
+@enduml
