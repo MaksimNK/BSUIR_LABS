@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+    <Airports>
+        <Airport AirportID="SIA">
+            <AirportName>Sheremetyevo International Airport</AirportName>
+            <ContactName>Ivan Ivanov</ContactName>
+            <ContactTitle>Operations Manager</ContactTitle>
+            <Phone>(123) 123-1123 </Phone>
+            <FullAddress>
+                <Address>Khimki, Moscow Oblast</Address>
+                <City>Moscow</City>
+                <Region>Moscow Oblast</Region>
+                <PostalCode>1234</PostalCode>
+                <Country>Russia</Country>
+            </FullAddress>
+        </Airport>
+        <Airport AirportID="MNA">
+            <AirportName>Minsk National Airport</AirportName>
+            <ContactName>Ivan Ivanov</ContactName>
+            <ContactTitle>Operations Manager</ContactTitle>
+            <Phone>(123) 123-1234</Phone>
+            <FullAddress>
+                <Address>Airport, 220054</Address>
+                <City>Minsk</City>
+                <Region>Minsk Region</Region>
+                <PostalCode>1234</PostalCode>
+                <Country>Belarus</Country>
+            </FullAddress>
+        </Airport>
+
+    </Airports>
+</Root>
